@@ -1,3 +1,3 @@
 hi how are you want to meet you
 today sucessfully completed basic of git
-
+if we change any edit in commited files it will move directly to local repo to use git commit -a -m
